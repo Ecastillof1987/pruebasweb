@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+
+header, footer{
+	background:#251BD5;
+	color: #fff;
+}
+.main{
+	background: #C6C0C0;
+}
+
+article{
+	background: #C6C0C0;
+}
+aside{
+	background: #D8AB0D;
+}
+
+.uno{
+	background: #D01518;
+}
+
+.dos{
+	background: #8CB4B3;
+}
+
+.tres{
+	background: #20D851;
+}
